@@ -1,6 +1,6 @@
 import pyshorteners
 import streamlit as st
-path = "/home/p/shiv/streamlit/url_img.png"
+path = "https://github.com/shivraj8615/streamlit_url_shortner/blob/main/url_img.png"
 st.image(path)
 heading = st.write("# URL Shortner")
 st.header(heading)
